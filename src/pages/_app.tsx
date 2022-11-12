@@ -8,6 +8,7 @@ function App({ Component, pageProps }: AppProps) {
             <Head>
                 <title>Game Store</title>
                 <link rel="short icon" href="/img/icon-512.png"/>
+                <link rel="manifest" href="manifest.json"/>
             </Head>
             <GlobalStyle />
             <Component {...pageProps} />
