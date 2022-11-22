@@ -14,9 +14,10 @@
   "dependencies": {
     "next": "9.4.4",
     "next-pwa": "^2.6.1",
+    "pg": "^8.8.0",
     "react": "16.13.1",
     "react-dom": "16.13.1",
-    "strapi": "^3.4.1",
+    "strapi": "^3.6.11",
     "styled-components": "^5.1.1"
   },
   "devDependencies": {
